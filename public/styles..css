@@ -1,0 +1,96 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.ll {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form {
+    margin: 50px;
+    margin-top: 300px;
+}
+
+small {
+    color: aliceblue;
+    margin-top: 5px;
+}
+
+input,
+button,
+label {
+    margin-top: 10px;
+}
+
+img {
+    height: 320px;
+}
+
+.card {
+    margin-top: 10px;
+    background-color: rgb(37, 36, 36);
+    color: white;
+}
+
+.singlee {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.image-container {
+    width: 400px;
+    height: 600px;
+    overflow: hidden;
+    border-radius: 8px;
+    margin-right: 20px;
+}
+
+.image-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.text-container {
+    max-width: 600px;
+}
+
+.singlee {
+    background-color: black;
+}
+
+.op {
+    font-size: large;
+    color: #f8f9fa;
+}
+
+.h33 {
+    color: white;
+}
+
+.h11 {
+    color: rgb(224, 28, 28);
+}
+
+.rating {
+    color: orange;
+}
+
+.h55 {
+    color: rgb(36, 73, 185);
+}
